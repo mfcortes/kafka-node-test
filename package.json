@@ -1,0 +1,22 @@
+{
+  "name": "kafka-javascript",
+  "version": "1.0.0",
+  "description": "kafka comunication ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "kafka"
+  ],
+  "author": "mfcortes@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "date-now": "^1.0.1",
+    "kafka-node": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
